@@ -76,7 +76,7 @@
     },
     {
       "name": "common-heliana-items",
-      "label": "Предметы(Хелиана)",
+      "label": "*Предметы(Хелиана)",
       "type": "Item",
       "system": "dnd5e",
       "path": "packs/common-heliana-items.db",
@@ -103,7 +103,7 @@
     },
     {
       "name": "advantages-of-heliana-enchantment",
-      "label": "Достоинства зачарования(Хелиана)",
+      "label": "*Достоинства зачарования(Хелиана)",
       "type": "Item",
       "system": "dnd5e",
       "path": "packs/advantages-of-heliana-enchantment.db",
@@ -112,7 +112,7 @@
     },
     {
       "name": "advantages-of-making-heliana",
-      "label": "*Достоинства изготовления",
+      "label": "*Достоинства изготовления(Хелиана)",
       "type": "Item",
       "system": "dnd5e",
       "path": "packs/advantages-of-making-heliana.db",
