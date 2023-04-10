@@ -1,8 +1,17 @@
 {
-  "name": "readman-heliana",
+  "id": "readman-heliana",
   "title": "readman-heliana",
-  "author": "readman",
   "description": "Этот модуль содержит сборник с действующими лицами, журналами, предметами и таблицами из главы о крафте из книги \"Руководство Хелианы по охоте на монстров\".",
+  "authors": [
+    {
+      "name": "readman"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "version": "0.1.1",
   "packs": [
     {
       "name": "heliana-actors",
@@ -120,19 +129,6 @@
       "module": "readman-heliana"
     }
   ],
-  "id": "readman-heliana",
-  "authors": [
-    {
-      "name": "readman"
-    }
-  ],
-  "minimumCoreVersion": "0.8.0",
-  "compatibleCoreVersion": "9",
-  "compatibility": {
-    "minimum": 9,
-    "verified": 10
-  },
-  "version": "0.1.1",
   "url": "https://github.com/itugul/readman-heliana",
   "manifest": "https://github.com/itugul/readman-heliana/releases/download/0.1.1/module.json",
   "download": "https://github.com/itugul/readman-heliana/releases/download/0.1.1/readman-heliana.zip"
