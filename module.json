@@ -1,0 +1,138 @@
+{
+  "name": "readman-heliana",
+  "title": "readman-heliana",
+  "author": "readman",
+  "description": "Этот модуль содержит сборник с действующими лицами, журналами, предметами и таблицами из главы о крафте из книги \"Руководство Хелианы по охоте на монстров\".",
+  "packs": [
+    {
+      "name": "heliana-actors",
+      "label": "*Существа(Хелиана)",
+      "type": "Actor",
+      "system": "dnd5e",
+      "path": "packs/heliana-actors.db",
+      "entity": "Actor",
+      "module": "readman-heliana"
+    },
+    {
+      "name": "heliana-journals",
+      "label": "*Журналы(Хелиана)",
+      "type": "JournalEntry",
+      "path": "packs/heliana-journals.db",
+      "entity": "JournalEntry",
+      "module": "readman-heliana"
+    },
+    {
+      "name": "heliana-rolltable",
+      "label": "*Таблицы(Хелиана)",
+      "type": "RollTable",
+      "path": "packs/heliana-rolltable.db",
+      "entity": "RollTable",
+      "module": "readman-heliana"
+    },
+    {
+      "name": "helianas-spells",
+      "label": "*Заклинания(Хелиана)",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/helianas-spells.db",
+      "entity": "Item",
+      "module": "readman-heliana"
+    },
+    {
+      "name": "heliana-tools",
+      "label": "*Инструменты(Хелиана)",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/heliana-tools.db",
+      "entity": "Item",
+      "module": "readman-heliana"
+    },
+    {
+      "name": "helian-magic-items",
+      "label": "*Магические предметы(Хелиана)",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/helian-magic-items.db",
+      "entity": "Item",
+      "module": "readman-heliana"
+    },
+    {
+      "name": "helianas-magic-food",
+      "label": "*Магическая еда(Хелиана)",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/helianas-magic-food.db",
+      "entity": "Item",
+      "module": "readman-heliana"
+    },
+    {
+      "name": "common-heliana-items",
+      "label": "Предметы(Хелиана)",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/common-heliana-items.db",
+      "entity": "Item",
+      "module": "readman-heliana"
+    },
+    {
+      "name": "disadvantages-of-helianas-enchantment",
+      "label": "*Недостатки зачарования(Хелиана)",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/disadvantages-of-helianas-enchantment.db",
+      "entity": "Item",
+      "module": "readman-heliana"
+    },
+    {
+      "name": "disadvantages-of-making-heliana",
+      "label": "*Недостатки изготовления(Хелиана)",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/disadvantages-of-making-heliana.db",
+      "entity": "Item",
+      "module": "readman-heliana"
+    },
+    {
+      "name": "advantages-of-heliana-enchantment",
+      "label": "Достоинства зачарования(Хелиана)",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/advantages-of-heliana-enchantment.db",
+      "entity": "Item",
+      "module": "readman-heliana"
+    },
+    {
+      "name": "advantages-of-making-heliana",
+      "label": "*Достоинства изготовления",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/advantages-of-making-heliana.db",
+      "entity": "Item",
+      "module": "readman-heliana"
+    },
+    {
+      "name": "heliana-mutations",
+      "label": "*Мутации(Хелиана)",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/heliana-mutations.db",
+      "entity": "Item",
+      "module": "readman-heliana"
+    }
+  ],
+  "id": "readman-heliana",
+  "authors": [
+    {
+      "name": "readman"
+    }
+  ],
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "9",
+  "compatibility": {
+    "minimum": 9,
+    "verified": 10
+  },
+  "version": "0.1.0",
+  "manifest": "https://www.dropbox.com/s/wza6teodzvs6lgj/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/yzfvr5vstcpkl7w/readman-heliana.zip?dl=1"
+}
