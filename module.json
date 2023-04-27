@@ -1,7 +1,7 @@
 {
-  "id": "readman-heliana",
-  "title": "Крафт из Хелианы",
-  "description": "Этот модуль содержит сборник с действующими лицами, журналами, предметами и таблицами из главы о крафте из книги \"Руководство Хелианы по охоте на монстров\".",
+  "id": "readman-heliana-all",
+  "title": "Руководство Хелианы по охоте на монстров",
+  "description": "Этот модуль содержит сборник материалов из книги \"Руководство Хелианы по охоте на монстров\". На данный момент тут содержатся глава \"Крафт\" и приключение \"Слизнеграни\"",
   "authors": [
     {
       "name": "readman"
@@ -130,6 +130,6 @@
     }
   ],
   "url": "https://github.com/itugul/readman-heliana",
-  "manifest": "https://github.com/itugul/readman-heliana/releases/download/free/module.json",
-  "download": "https://github.com/itugul/readman-heliana/releases/download/free/readman-heliana.zip"
+  "manifest": "https://github.com/itugul/readman-heliana/releases/download/helianas_GtMH/module.json",
+  "download": "https://github.com/itugul/readman-heliana/releases/download/helianas_GtMH/readman-heliana.zip"
 }
